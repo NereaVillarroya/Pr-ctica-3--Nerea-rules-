@@ -1,3 +1,3 @@
 # Práctica 3 (Nerea rules)
  
-TREMENDO DE TEXTO...
+Nerea, dime los nombres
